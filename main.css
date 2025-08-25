@@ -1,0 +1,33 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+}
+/* table {
+    border-color: black;
+    border-collapse: collapse;
+} */
+
+td {
+    padding-left: 35px;
+    padding-right: 20px;
+}
+
+.th-name {
+    padding-left: 32px;
+}
+
+.footer-td {
+    padding-top: 10px;
+}
+
+thead {
+    color: red;
+}
+
+.num-class{
+    color: red;
+}
+
+tfoot {
+    color: blue;
+}
